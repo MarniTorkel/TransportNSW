@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+th {
+  font-size: 12px;
+  text-align: center;
+  color: grey;
+}
+
+td {
+  padding: 10px;
+  font-size: 12px;
+  text-align: center;
+  /* border: 1px white solid; */
+}
+
+.today {
+  background-color: whitesmoke;
+  /* border: 1px black solid; */
+  border-radius: 50%;
+}
+
+header {
+  text-align: center;
+}
