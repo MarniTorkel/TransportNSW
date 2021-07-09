@@ -19,4 +19,4 @@ Currently, the filter only for priority, if selected, the details section will r
 
 details section shows priority, subtitle and timestamps.available from and to.
 
-index.js is the only file from backend.
+Backend is on TransportNSW-backend
